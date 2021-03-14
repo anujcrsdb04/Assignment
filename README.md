@@ -1,5 +1,5 @@
 # Assignment
-Assignment of react native redux login demo.
+Assignment of react native Asyncstorage with reducer login demo.
 
 I have created three static users by which you can login inti the app
   1.    username: 'user1', 
