@@ -1,5 +1,5 @@
 {
-  "name": "rnv5",
+  "name": "Assignment",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.9.0",
+    "@react-native-community/cli": "^4.14.0",
     "@react-native-community/masked-view": "^0.1.6",
     "@react-navigation/drawer": "^5.1.1",
     "@react-navigation/material-bottom-tabs": "^5.1.6",
